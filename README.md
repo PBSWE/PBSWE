@@ -3,13 +3,15 @@
 
 ### About 
 
-💬 Data Science and Machine Learning enthusiast. Passionate about music, health and fitness. I enjoy helping businesses make better decisions through data. For that to happen, I am experienced in data collection, sanitization, exploratory data analysis, visualization plots and machine learning fine tuning for better predictions. All of that happens in a compeling sotrytelling, visualizations-rich presentation that conveys the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world. 
+💬 Data Science and Machine Learning enthusiast. Passionate about music, health and fitness. 
+ <br>
+I enjoy helping businesses make better decisions through data. For that to happen, I am experienced in data collection, sanitization, exploratory data analysis, visualization plots and machine learning fine tuning for better predictions. All of that happens in a compeling sotrytelling, visualizations-rich presentation that conveys the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world. 
  <br>
 🔭 I'm currently working on a Data Science and Machine Learning prediction model with a Spotify dataset from Kaggle that contains the most popular songs from the past decade. The model learns each song attribute and how the popularity is ranked and then predicts the popularity of newer songs based on its attributes. 
  <br>
 🌱 I'm currently learning about Deep Learning, Neural Networks, Tensorflow and Markov Stochastic and State Models. Not to mention Relationa Database models (RDBMS) and SQL, Software Development through a Bachelor's degree from Westerno Governors University. 
 
-🛠️ Skills
+🛠️ Skills <br>
 Machine Learning - Sklearn, TensorFlow <br>
 Languages - Python, C++, HTML, CSS, JS, SQL, Java <br>
 IDEs & Tools - Jupyter, Anaconda, PyCharm, Visual Studio, Xcode, GitHub, GitGist  <br>
@@ -18,7 +20,7 @@ Database & Cloud - Oracle, SQLite, AWS EC2, IAM, S3 <br>
 Management - Agile, Waterfall, Prince2, Hybrid <br>
 Office Tools - Outlook, Word, Excel, PowerPoint, Gantt, Trello <br>
 
-🎓 Certifications
+🎓 Certifications <br>
 Python for Data Science - IBM Cognitive Class <br>
 Data Analysis with Python - IBM Cognitive Class <br>
 SQL and Relational Databases - IBM Cognitive Class <br>
@@ -28,7 +30,7 @@ CIW Site Development Associate - 1D0-61B <br>
 AXELOS ITIL 4 Foundation – Project Management <br>
 CompTIA A+ and CompTIA Project+ - 220-1001, 220-1002 and PK0-004 <br>
 
-📫 How to reach me:
+📫 How to reach me: <br>
 https://linkedin.com/in/phillus
 
 <!--
