@@ -3,7 +3,7 @@
 
 ### About 
 
-💬 Data Science and Machine Learning enthusiast. Passionate about music, health and fitness.  <br>
+💬 Data Science and Machine Learning enthusiast. Passionate about music, fitness and health.  <br>
  <br>
  
 💡 I enjoy helping businesses make better decisions through data. I am experienced in data collection, cleaning/formatting, exploratory data analysis, visualization plots and machine learning fine tuning for better predictions. All of that happens in compelling storytelling, visualizations-rich presentations that convey the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world.  <br>
