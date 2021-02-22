@@ -9,11 +9,8 @@
 
 🌱 I'm currently learning about Deep Learning, Neural Networks, Tensorflow and Markov Stochastic and State Models. Not to mention Relationa Database models (RDBMS) and SQL, Software Development through a Bachelor's degree from Westerno Governors University. 
 
-📫 How to reach me:
-https://linkedin.com/in/phillus
-
 🛠️ Skills
-Machine Learning - Sklearn, TensorFlow
+Machine Learning - Sklearn, TensorFlow <br>
 Languages - Python, C++, HTML, CSS, JS, SQL, Java
 IDEs & Tools - Jupyter, Anaconda, PyCharm, Visual Studio, Xcode, GitHub, GitGist 
 Visualization - Tableu, Matplotlib, Seaborn, Excel
@@ -22,7 +19,7 @@ Management - Agile, Waterfall, Prince2, Hybrid
 Office Tools - Outlook, Word, Excel, PowerPoint, Gantt, Trello
 
 🎓 Certifications
-Python for Data Science - IBM Cognitive Class
+Python for Data Science - IBM Cognitive Class <br>
 Data Analysis with Python - IBM Cognitive Class
 SQL and Relational Databases - IBM Cognitive Class
 Programming Foundations Databases - LinkedIn Learning
@@ -31,6 +28,8 @@ CIW Site Development Associate - 1D0-61B
 AXELOS ITIL 4 Foundation – Project Management
 CompTIA A+ and CompTIA Project+ - 220-1001, 220-1002 and PK0-004
 
+📫 How to reach me:
+https://linkedin.com/in/phillus
 
 <!--
 **PBSWE/PBSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
