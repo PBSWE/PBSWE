@@ -1,3 +1,6 @@
+![1613183227385](https://user-images.githubusercontent.com/57310653/108643509-b7d77d00-745f-11eb-97e0-e8c082f4c3db.jpeg)
+
+
 ### About 
 
 Data Science and Machine Learning enthusiast. Passionate about music, health and fitness. I enjoy helping businesses make better decisions through data. For that to happen, I am experienced in data collection, sanitization, exploratory data analysis, visualization plots and machine learning fine tuning for better predictions. All of that happens in a compeling sotrytelling, visualizations-rich presentation that conveys the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world. 
