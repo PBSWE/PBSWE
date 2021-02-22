@@ -6,13 +6,13 @@
 💬 Data Science and Machine Learning enthusiast. Passionate about music, health and fitness.  <br>
  <br>
  
-💡 I enjoy helping businesses make better decisions through data. I am experienced in data collection, sanitization, exploratory data analysis, visualization plots and machine learning fine tuning for better predictions. All of that happens in a compeling sotrytelling, visualizations-rich presentation that conveys the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world.  <br>
+💡 I enjoy helping businesses make better decisions through data. I am experienced in data collection, cleaning/formatting, exploratory data analysis, visualization plots and machine learning fine tuning for better predictions. All of that happens in compelling storytelling, visualizations-rich presentations that convey the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world.  <br>
  <br>
  
-🔭 I'm currently working on a Data Science and Machine Learning prediction model with a Spotify dataset from Kaggle that contains the most popular songs from the past decade. The model learns each song attribute and how the popularity is ranked and then predicts the popularity of newer songs based on its attributes.  <br>
+🔭 I'm currently working on a Data Science and Machine Learning prediction model with a Spotify dataset from Kaggle that contains the most popular songs from the past decade. The model learns each song attribute and how the popularity is ranked and then predicts the popularity of newer songs based on its attributes. It's available right here on GitHub. Look for 'Spotify' on my repositories.  <br>
  <br>
  
-🌱 I'm currently learning about Deep Learning, Neural Networks, Tensorflow and Markov Stochastic and State Models. Not to mention Relationa Database models (RDBMS) and SQL, Software Development through a Bachelor's degree from Westerno Governors University.  <br>
+🌱 I'm currently learning about Deep Learning, Neural Networks, Tensorflow and Markov Stochastic and State Models. Not to mention Relational Database models (RDBMS) and SQL, Software Development through a Bachelor's degree from Western Governors University.  <br>
  <br>
  
  ![Github stats](https://github-readme-stats.vercel.app/api?username=PBSWE)
