@@ -46,7 +46,7 @@ CompTIA Project+ PK0-004 <br>
 ⚡⚡ A couple of years ago I connected with a local singer 💃🏼 in Las Vegas and asked if she would agree to sing some lyrics I wrote. She did, we recorded 🎤, she sounded amazing, I polished and finished the track 🥁🎷 and guess what? A record label 💽 in Netherlands heard it and wanted to release it worldwide 🌎 under their label! <br>
 <br>
 
-⚡⚡⚡ That and some other tracks I composed and produced are available on iTunes 🎙, Amazon Music 📻, Deezer 🔉 and Spotify 🎧.
+⚡⚡⚡ That and other tracks I composed/produced are available on iTunes 🎙, Amazon Music 📻, Deezer 🔉 and Spotify 🎧.
  
 
 📫 How to reach me: <br>
