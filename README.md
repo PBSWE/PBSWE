@@ -23,9 +23,9 @@ Machine Learning - Sklearn, TensorFlow <br>
 Languages - Python, C++, HTML, CSS, JS, SQL, Java <br>
 IDEs & Tools - Jupyter, Anaconda, PyCharm, Visual Studio, Xcode, GitHub, GitGist  <br>
 Visualization - Tableu, Matplotlib, Seaborn, Excel <br>
-Database & Cloud - Oracle, SQLite, AWS EC2, IAM, S3 <br>
+Database & Cloud - Oracle, SQLite, AWS EC2, IAM, S3, PgAdmin4 (PostgreSQL) <br>
 Management - Agile, Waterfall, Prince2, Hybrid <br>
-Office Tools - Outlook, Word, Excel, PowerPoint, Gantt, Trello <br>
+Office Tools - Outlook, Word, Excel, PowerPoint, Gantt, Trello, Power BI <br>
  <br>
  
 🎓 Certifications <br>
@@ -36,8 +36,12 @@ Programming Foundations Databases - LinkedIn Learning <br>
 CIW User Interface Design - 1D0-621 <br>
 CIW Site Development Associate - 1D0-61B <br>
 AXELOS ITIL 4 Foundation – Project Management <br>
-CompTIA A+ and CompTIA Project+ - 220-1001, 220-1002 and PK0-004 <br>
+CompTIA A+ 220-1001, 220-1002 <br>
+CompTIA Project+ PK0-004 <br>
  <br>
+ 
+⚡ Fun fact: In my spare time, I like to compose and produce music 🎶. I have been doing this ever since I was young (not that I'm not young still 😜) and I've used many DAWs (digital audio workspace 🎹) such as FL Studio, SoundForge and LogicX Pro. A couple of years ago I connected with a local singer 💃🏼 in Las Vegas and asked if she would agree to sing some lyrics I wrote. She did, we recorded 🎤, she sounded amazing 🗣, I polished and finished the track 🥁🎷 and guess what 🤔? A record label 💽 in Netherlands heard it and wanted to release it worldwide 🌎 under their label! That and some other tracks I composed and produced are available on iTunes 🎙, Amazon Music 📻, Deezer 🔉 and Spotify 🎧.
+ 
 
 📫 How to reach me: <br>
 https://linkedin.com/in/phillus
