@@ -40,7 +40,7 @@ CompTIA A+ 220-1001, 220-1002 <br>
 CompTIA Project+ PK0-004 <br>
  <br>
  
-⚡ Fun fact: In my spare time, I like to compose and produce music 🎶. I have been doing this ever since I was young (not that I'm not young still) and I've used many DAWs (digital audio workspace 🎹) such as FL Studio, SoundForge and LogicX Pro. <br>
+⚡ Fun fact: In my spare time, I like to compose and produce music 🎶. I have been doing this ever since I was young (not that I'm not young still) and I've used many DAWs (digital audio workspace 🎹) such as FL Studio, SoundForge, Reason and LogicX Pro. <br>
 <br>
 
 ⚡⚡ A couple of years ago I connected with a local singer 💃🏼 in Las Vegas and asked if she would agree to sing some lyrics I wrote. She did, we recorded 🎤, she sounded amazing, I polished and finished the track 🥁🎷 and guess what? A record label 💽 in Netherlands heard it and wanted to release it worldwide 🌎 under their label! <br>
