@@ -22,7 +22,7 @@
 Machine Learning - Sklearn, TensorFlow <br>
 Languages - Python, C++, HTML, CSS, JS, SQL, Java <br>
 IDEs & Tools - Jupyter, Anaconda, PyCharm, Visual Studio, Xcode, GitHub, GitGist  <br>
-Visualization - Tableu, Matplotlib, Seaborn, Excel <br>
+Visualization - Tableau, Matplotlib, Seaborn, Excel <br>
 Database & Cloud - Oracle, SQLite, AWS EC2, IAM, S3, PgAdmin4 (PostgreSQL) <br>
 Management - Agile, Waterfall, Prince2, Hybrid <br>
 Office Tools - Outlook, Word, Excel, PowerPoint, Gantt, Trello, Power BI <br>
