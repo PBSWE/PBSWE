@@ -15,8 +15,7 @@
 🌱 I'm currently learning about Data Engineering with Azure, which compliments my AWS experience. Tools like SQL, Python Notebooks, Azure, AWS, SSRS, PowerBI, Tableau are few of my go-tos for delivering data-driven business answers. Constantly learning more about Deep Learning, Neural Networks, Tensorflow and Markov Stochastic and State Models. In 2023, graduated with a Bachelor's degree in Software Development/Engineering at WGU.  <br>
  <br>
  
- ![Github stats](https://github-readme-stats.vercel.app/api?username=PBSWE)
-
+![GitHub Activity Graph](https://cdn.pbswe.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
 🛠️ Skills <br>
 Database & Cloud - AWS: S3 - EC2 - Athena - Redshift - IAM, Azure: ADLSGen2 - Synapse Studio - Databricks - Data Factory - Entra ID, SQL Server <br>
@@ -55,6 +54,8 @@ https://linkedin.com/in/phillus
 
 <!--
 **PBSWE/PBSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+![Github stats](https://github-readme-stats.vercel.app/api?username=PBSWE)
 
 Here are some ideas to get you started: 👋
 
