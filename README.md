@@ -3,32 +3,33 @@
 
 ### About 
 
-💬 Data Science and Machine Learning enthusiast. Passionate about music, fitness and health.  <br>
+💬 Data Engineer, Business Intelligence, Data Science and Machine Learning practitioner and enthusiast. Passionate about music, fitness and health.  <br>
  <br>
  
-💡 I enjoy helping businesses make better decisions through data. I am experienced in data collection, cleaning/formatting, exploratory data analysis, visualization plots and machine learning fine tuning for better predictions. All of that happens in compelling storytelling, visualizations-rich presentations that convey the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world.  <br>
+💡 I enjoy helping businesses make better decisions through data. I am experienced in data collection, cleaning/formatting, exploratory data analysis, intuitive visualizations and machine learning fine tuning for better predictions. All of that happens in compelling storytelling, visualizations-rich presentations that convey the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world.  <br>
  <br>
  
-🔭 I'm currently working on a Data Science and Machine Learning prediction model with a Spotify dataset from Kaggle that contains the most popular songs from the past decade. The model learns each song attribute and how the popularity is ranked and then predicts the popularity of newer songs based on its attributes. It's available right here on GitHub. Look for 'Spotify' on my repositories.  <br>
+🔭 I'm currently working on the Azure Data Engineer certification which has been one of my favorite things to learn so far. Previously, I've created a Data Science and Machine Learning prediction model with a Spotify dataset from Kaggle that contains the most popular songs from the past decade. The model learns each song attribute and how the popularity is ranked and then predicts the popularity of newer songs based on its attributes. It's available right here on GitHub. Look for 'Spotify' on my repositories.  <br>
  <br>
  
-🌱 I'm currently learning about Deep Learning, Neural Networks, Tensorflow and Markov Stochastic and State Models. Not to mention Relational Database models (RDBMS) and SQL, Software Development through a Bachelor's degree from Western Governors University.  <br>
+🌱 I'm currently learning about Data Engineering with Azure, which compliments my AWS experience. Tools like SQL, Python Notebooks, Azure, AWS, SSRS, PowerBI, Tableau are few of my go-tos for delivering data-driven business answers. Constantly learning more about Deep Learning, Neural Networks, Tensorflow and Markov Stochastic and State Models. In 2023, graduated with a Bachelor's degree in Software Development/Engineering at WGU.  <br>
  <br>
  
  ![Github stats](https://github-readme-stats.vercel.app/api?username=PBSWE)
 
 
 🛠️ Skills <br>
+Database & Cloud - AWS: S3 - EC2 - Athena - Redshift - IAM, Azure: ADLSGen2 - Synapse Studio - Databricks - Data Factory - Entra ID, SQL Server <br>
+Visualization - PowerBI, Tableau, Sisense, Matplotlib, Seaborn, Excel <br>
 Machine Learning - Sklearn, TensorFlow <br>
-Languages - Python, C++, HTML, CSS, JS, SQL, Java <br>
-IDEs & Tools - Jupyter, Anaconda, PyCharm, Visual Studio, Xcode, GitHub, GitGist  <br>
-Visualization - Tableau, Matplotlib, Seaborn, Excel <br>
-Database & Cloud - Oracle, SQLite, AWS EC2, IAM, S3, PgAdmin4 (PostgreSQL) <br>
+Languages - SQL, Python, C++, Java, HTML, CSS, JS <br>
+IDEs & Tools - Jupyter, Anaconda, PyCharm, Visual Studio, Xcode, GitHub, GitBooks  <br>
 Management - Agile, Waterfall, Prince2, Hybrid <br>
-Office Tools - Outlook, Word, Excel, PowerPoint, Gantt, Trello, Power BI <br>
+Office Tools - Outlook, Word, Excel, PowerPoint, Gantt, Trello <br>
  <br>
  
 🎓 Certifications <br>
+Microsoft Azure Data Engineer DP-203 (2024) <br>
 Python for Data Science - IBM Cognitive Class <br>
 Data Analysis with Python - IBM Cognitive Class <br>
 SQL and Relational Databases - IBM Cognitive Class <br>
