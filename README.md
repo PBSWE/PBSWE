@@ -3,7 +3,8 @@
 
 ### About 
 
-💬 Data Engineer, Business Intelligence, Data Science and Machine Learning practitioner and enthusiast. Passionate about music, fitness and health.  <br>
+💬 Data Engineer, Business Intelligence, Data Science and Machine Learning practitioner and enthusiast. 
+Passionate about music, fitness and health.  <br>
  <br>
  
 💡 I enjoy helping businesses make better decisions through data. I am experienced in data collection, cleaning/formatting, exploratory data analysis, intuitive visualizations and machine learning fine tuning for better predictions. All of that happens in compelling storytelling, visualizations-rich presentations that convey the message effectively to stakeholders, so that data insights turn into data-driven decisions in the real world.  <br>
