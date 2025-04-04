@@ -3,7 +3,7 @@
 
 ### About 
 
-💬 Business Intelligence and Data Engineer, Data Science and Machine Learning practitioner. <br>
+💬 Data and Software Development Engineer, Data Science and Machine Learning practitioner. <br>
 <br>
 
 ❤️ Passionate about music, fitness and health.  <br>
